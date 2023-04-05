@@ -88,12 +88,8 @@ Here are some ideas to get you started:
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
-
 </td>
-
-
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
