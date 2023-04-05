@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  style="width: 75%" />
   
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="center" style="width: 100%" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  style="width: 75%" />
 </div>  
   
 
