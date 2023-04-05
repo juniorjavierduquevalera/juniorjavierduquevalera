@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## My Skill Set  
-<table><td valign="top" width="100%">
+## My Skill Set 
+<table><tr valign="top" width="100%">
 
 ### Frontend  
 <div align="center">  
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
 </div>
 
-</td><</table> 
+</tr></table> 
 
 
 <table><td valign="top" width="100%">
