@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </tr></table> 
 
 
-<table><td valign="top" width="100%">
+<table><tr valign="top" width="100%">
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -77,10 +77,10 @@ Here are some ideas to get you started:
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
-</td></table> 
+</tr></table> 
 
 
-<table><td valign="top" width="100%">
+<table><tr valign="top" width="100%">
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
 
-</td></table> 
+</tr></table> 
 
 <br/>  
 
