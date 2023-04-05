@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </div>  
 </td>
 <tr/>
-
+<br/>
 <td valign="top" width="vw">
 ### Backend
 <div align="center">  
@@ -73,11 +73,10 @@ Here are some ideas to get you started:
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-  
+</div>  
 <td/>
-
-<td valign="top" width="vw" margin="10px 0px">
+<br/>
+<td valign="top" width="vw">
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
