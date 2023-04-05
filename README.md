@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ## My Skill Set 
-<table width="vh"><tr><td valign="top" width="vw">
+<tr><td valign="top" width="vw">
 
 ### Frontend  
 <div align="center">  
@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
 </div>
   
-</tr></td></table> 
+</tr></td>
 
-<table width="vh"><td valign="top" width="vw">
+<td valign="top" width="vw">
 ### Backend
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -76,9 +76,9 @@ Here are some ideas to get you started:
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
   
-</table><td/>
+<td/>
 
-<table width="vh"><tr><td valign="top" width="vw">
+<tr><td valign="top" width="vw">
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
