@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 
 ## My Skill Set 
-<tr><td valign="top" width="vw">
-
+<td valign="top" width="vw">
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -59,9 +58,9 @@ Here are some ideas to get you started:
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-</div>
-  
-</tr></td>
+</div>  
+</td>
+<tr/>
 
 <td valign="top" width="vw">
 ### Backend
@@ -78,7 +77,7 @@ Here are some ideas to get you started:
   
 <td/>
 
-<tr><td valign="top" width="vw">
+<td valign="top" width="vw">
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -88,7 +87,7 @@ Here are some ideas to get you started:
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
 
-</tr></td></table> 
+</td>
 
 
 <br/>  
