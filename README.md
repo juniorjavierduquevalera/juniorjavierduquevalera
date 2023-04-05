@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div display: "flex">
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  style="width: 75%" />
-  
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  style="width: 75%" />
+<div  align="center">
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  style="width: 100%" />
 </div>  
   
 
