@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 </div>
 
 </tr></table> 
-<hr/>
 
+###
 
 <table><tr valign="top" width="100%">
 ### Backend  
