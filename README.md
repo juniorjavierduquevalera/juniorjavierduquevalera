@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 </tr></table> 
 
-###
+<tr/>
 
 <table><tr valign="top" width="100%">
 ### Backend  
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </div>
 
 </tr></table> 
-
+<tr/>
 
 <table><tr valign="top" width="100%">
 ### DevOps  
@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 </div>
 
 </tr></table> 
+<tr/>
 
 <br/>  
 
